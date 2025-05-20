@@ -1,3 +1,12 @@
 .main_container {
   padding-top: 100px;
+}
+
+header {
+  background-color: white;
+}
+
+footer {
+  height: 90px;
+  background-color: rgb(245, 245, 245);
 }/*# sourceMappingURL=style.css.map */
